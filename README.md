@@ -1,5 +1,5 @@
 # GPIO-Control-RPI3
-#How to install?
+How to install?
 Enter in the console:
 1.
 	git clone git://git.drogon.net/wiringPi
